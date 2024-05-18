@@ -1,6 +1,6 @@
 # pipeline_AWS
 Informações relacionadas a um projeto prático para criar um pipeline de dados na nuvem AWS
 
-Link da apresentação: [https://drive.google.com/file/d/13liDurgYJesY-ULPArbT8bPeEtQJrzuv/view?usp=drive_link](https://drive.google.com/file/d/13liDurgYJesY-ULPArbT8bPeEtQJrzuv/view?usp=sharing)
+Link da apresentação: [CC Trabalho FINAl DE](https://drive.google.com/file/d/13liDurgYJesY-ULPArbT8bPeEtQJrzuv/view?usp=sharing)
 
 ![Diagrama](https://github.com/diegobarbosaa/pipeline_AWS/assets/42698260/3ea85a1e-6500-4863-82cb-a0e9bc67083a)
